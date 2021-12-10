@@ -1,27 +1,675 @@
 [
-  {
+    {
     "order": 1,
-    "id": "lzcs1eaCl4",
-    "game": "Starfox 64",
-    "answers": ["starfox 64", "lylat wars"]
-  },
-  {
-    "order": 3,
-    "id": "rp0IcNEIrV",
-    "game": "Resident Evil 2",
+    "id": "cs_go",
+    "game": "Counter Strike: Global Offensive",
     "answers": [
-      "re2",
-      "resident evil 2",
-      "re3",
-      "resident evil 3",
-      "re code veronica",
-      "resident evil code veronica"
+      "csgo",
+      "counter strike"
     ]
   },
-  {
+    {
     "order": 2,
-    "id": "rzdxsJYOp2",
+    "id": "rocket_league",
+    "game": "Rocket League",
+    "answers": [
+      "rl",
+      "rocket league"
+    ]
+  },
+    {
+    "order": 3,
+    "id": "super_mario",
+    "game": "Super Mario",
+    "answers": [
+      "mario",
+      "super mario"
+    ]
+  },
+    {
+    "order": 4,
+    "id": "tf2",
+    "game": "Team Fortress 2",
+    "answers": [
+      "tf2",
+      "team fortress"
+    ]
+  },
+    {
+    "order": 5,
+    "id": "terraria",
+    "game": "Terraria",
+    "answers": [
+      "terraria"    
+    ]
+  },
+    {
+    "order": 6,
+    "id": "crash",
+    "game": "Crash Bandicoot",
+    "answers": [
+      "crash bandicoot"    
+    ]
+  },
+    {
+    "order": 7,
+    "id": "cyberpunk",
+    "game": "Cyberpunk 2077",
+    "answers": [
+      "cyberpunk"    
+    ]
+  },
+    {
+    "order": 8,
+    "id": "portal2",
+    "game": "Portal 2",
+    "answers": [
+      "portal"    
+    ]
+  },
+    {
+    "order": 9,
+    "id": "bf3",
+    "game": "Battlefield 3",
+    "answers": [
+      "bf3",
+      "battlefield"    
+    ]
+  },
+    {
+    "order": 10,
+    "id": "mafia1",
+    "game": "Mafia 1",
+    "answers": [
+      "mafia"    
+    ]
+  },
+    {
+    "order": 11,
+    "id": "gta_sa",
+    "game": "GTA: San Andreas",
+    "answers": [
+      "gta sa"   
+    ]
+  },
+    {
+    "order": 12,
+    "id": "crysis1",
+    "game": "Crysis",
+    "answers": [
+      "crysis"   
+    ]
+  },
+    {
+    "order": 13,
+    "id": "heartstone",
+    "game": "Heartstone",
+    "answers": [
+      "heartstone",
+      "hs"   
+    ]
+  },
+    {
+    "order": 14,
+    "id": "zelda",
+    "game": "Legend of Zelda",
+    "answers": [
+      "zelda",
+      "legends of zelda"   
+    ]
+  },
+    {
+    "order": 15,
+    "id": "papers_please",
+    "game": "Papers, please",
+    "answers": [
+      "papers please"   
+    ]
+  },
+    {
+    "order": 16,
+    "id": "plantsvszombies",
+    "game": "Plants vs. Zombies",
+    "answers": [
+      "pvz",
+      "plants vs zombies"   
+    ]
+  },
+    {
+    "order": 17,
+    "id": "overwatch",
+    "game": "Overwatch",
+    "answers": [
+      "overwatch"
+    ]
+  },
+    {
+    "order": 18,
+    "id": "wot",
+    "game": "World of Tanks",
+    "answers": [
+      "trash",
+      "wot",
+      "world of tanks"
+    ]
+  },
+    {
+    "order": 19,
+    "id": "forza4",
+    "game": "Forza Horizon 4",
+    "answers": [
+      "forza"
+    ]
+  },
+    {
+    "order": 20,
+    "id": "minecraft",
+    "game": "Minecraft",
+    "answers": [
+      "mc",
+      "minecraft"
+    ]
+  },
+    {
+    "order": 21,
+    "id": "dyinglight",
+    "game": "Dying Light",
+    "answers": [
+      "dying light"
+    ]
+  },
+    {
+    "order": 22,
+    "id": "witcher3",
+    "game": "The Witcher 3: Wild Hunt",
+    "answers": [
+      "witcher 3"
+    ]
+  },
+    {
+    "order": 23,
+    "id": "sonic",
     "game": "Sonic the Hedgehog",
-    "answers": ["sonic"]
+    "answers": [
+      "sonic"
+    ]
+  },
+    {
+    "order": 24,
+    "id": "amnesia",
+    "game": "Amnesia",
+    "answers": [
+      "amnesia"
+    ]
+  },
+    {
+    "order": 25,
+    "id": "subnautica",
+    "game": "Subnautica",
+    "answers": [
+      "subnautica"
+    ]
+  },
+    {
+    "order": 26,
+    "id": "walking_dead",
+    "game": "The Walking Dead",
+    "answers": [
+      "walking dead"
+    ]
+  },
+    {
+    "order": 27,
+    "id": "dota",
+    "game": "Dota 2",
+    "answers": [
+      "dota"
+    ]
+  },
+    {
+    "order": 28,
+    "id": "lastofus",
+    "game": "The Last of Us",
+    "answers": [
+      "tlou",
+      "last of us",
+      "the last of us"
+    ]
+  },
+    {
+    "order": 29,
+    "id": "wow",
+    "game": "World of Warcraft",
+    "answers": [
+      "wow",
+      "world of warcraft",
+      "wafrcraft"
+    ]
+  },
+    {
+    "order": 30,
+    "id": "re7",
+    "game": "Resident Evil 7: Biohazard",
+    "answers": [
+      "re",
+      "resident evil"
+    ]
+  },
+    {
+    "order": 31,
+    "id": "dbd",
+    "game": "Dead by Daylight",
+    "answers": [
+      "dbd",
+      "dead by daylight",
+      "trash"
+    ]
+  },
+    {
+    "order": 32,
+    "id": "ets2",
+    "game": "Euro Truck Simulator 2",
+    "answers": [
+      "ets",
+      "euro truck"
+    ]
+  },
+    {
+    "order": 33,
+    "id": "borderlands2",
+    "game": "Bordelands 2",
+    "answers": [
+      "borderlands"
+    ]
+  },
+    {
+    "order": 34,
+    "id": "tomb_raider1",
+    "game": "Tomb Raider (2013)",
+    "answers": [
+      "tomb raider"
+    ]
+  },
+    {
+    "order": 35,
+    "id": "f12020",
+    "game": "F1 2020",
+    "answers": [
+      "f1",
+      "formula 1"
+    ]
+  },
+    {
+    "order": 36,
+    "id": "my_summer_car",
+    "game": "My Summer Car",
+    "answers": [
+      "msc",
+      "my summer car"
+    ]
+  },
+    {
+    "order": 37,
+    "id": "hitman",
+    "game": "HITMAN",
+    "answers": [
+      "hitman"
+    ]
+  },
+    {
+    "order": 38,
+    "id": "outlast",
+    "game": "Outlast",
+    "answers": [
+      "outlast"
+    ]
+  },
+    {
+    "order": 39,
+    "id": "for_honor",
+    "game": "For Honor",
+    "answers": [
+      "for honor"
+    ]
+  },
+    {
+    "order": 40,
+    "id": "assassin2",
+    "game": "Assassin's Creed 2",
+    "answers": [
+      "assassin",
+      "ac"
+    ]
+  },
+    {
+    "order": 41,
+    "id": "doom_eternal",
+    "game": "Doom Eternal",
+    "answers": [
+      "doom"
+    ]
+  },
+    {
+    "order": 42,
+    "id": "prince_of_persia",
+    "game": "Prince of Persia: Warrior Within",
+    "answers": [
+      "prince of persia"
+    ]
+  },
+    {
+    "order": 43,
+    "id": "seaofthieves",
+    "game": "Sea of Thieves",
+    "answers": [
+      "sea of thieves"
+    ]
+  },
+    {
+    "order": 44,
+    "id": "dark_souls3",
+    "game": "Dark Souls 3",
+    "answers": [
+      "ds3",
+      "dark souls"
+    ]
+  },
+    {
+    "order": 45,
+    "id": "skyrim",
+    "game": "Skyrim",
+    "answers": [
+      "skyrim",
+      "tes"
+    ]
+  },
+    {
+    "order": 46,
+    "id": "aliens_colonial_marines",
+    "game": "Aliens: Colonial Marines",
+    "answers": [
+      "alien"
+    ]
+  },
+    {
+    "order": 47,
+    "id": "fallout4",
+    "game": "Fallout 4",
+    "answers": [
+      "fallout"
+    ]
+  },
+    {
+    "order": 48,
+    "id": "callofduty_modernwarfare",
+    "game": "Call of Duty: Modern Warfare",
+    "answers": [
+      "cod",
+      "modern warfare",
+      "call of duty"
+    ]
+  },
+    {
+    "order": 49,
+    "id": "beat_saber",
+    "game": "Beat Saber",
+    "answers": [
+      "beat saber"
+    ]
+  },
+    {
+    "order": 50,
+    "id": "fs19",
+    "game": "Farming Simulator 19",
+    "answers": [
+      "farming simulator",
+      "fs"
+    ]
+  },
+    {
+    "order": 51,
+    "id": "ghost_of_tsushima",
+    "game": "Ghost of Tsushima",
+    "answers": [
+      "ghost of t"
+    ]
+  },
+    {
+    "order": 52,
+    "id": "halo",
+    "game": "Halo",
+    "answers": [
+      "halo"
+    ]
+  },
+    {
+    "order": 53,
+    "id": "nfs_mostwanted",
+    "game": "Need for Speed: Most Wanted",
+    "answers": [
+      "nfs",
+      "need for speed"
+    ]
+  },
+    {
+    "order": 54,
+    "id": "death_stranding",
+    "game": "Death Stranding",
+    "answers": [
+      "death stranding"
+    ]
+  },
+    {
+    "order": 55,
+    "id": "mirrors_edge",
+    "game": "Mirror's Edge",
+    "answers": [
+      "mirrors edge"
+    ]
+  },
+    {
+    "order": 56,
+    "id": "ori",
+    "game": "Ori and the Blind Forest",
+    "answers": [
+      "ori"
+    ]
+  },
+    {
+    "order": 57,
+    "id": "lastofus2",
+    "game": "The Last of Us 2",
+    "answers": [
+      "tlou2",
+      "last of us",
+      "the last of us"
+    ]
+  },
+    {
+    "order": 58,
+    "id": "bloodborne",
+    "game": "Bloodborne",
+    "answers": [
+      "bloodborne"
+    ]
+  },
+    {
+    "order": 59,
+    "id": "borderlands3",
+    "game": "Bordelands 3",
+    "answers": [
+      "borderlands"
+    ]
+  },
+    {
+    "order": 60,
+    "id": "cuphead",
+    "game": "Cuphead",
+    "answers": [
+      "cuphead"
+    ]
+  },
+    {
+    "order": 61,
+    "id": "doom2016",
+    "game": "Doom 2016",
+    "answers": [
+      "doom"
+    ]
+  },
+    {
+    "order": 62,
+    "id": "god_of_war",
+    "game": "God of War",
+    "answers": [
+      "gow",
+      "god of war"
+    ]
+  },
+    {
+    "order": 63,
+    "id": "farcry3",
+    "game": "FarCry 3",
+    "answers": [
+      "farcry"
+    ]
+  },
+    {
+    "order": 64,
+    "id": "fnaf",
+    "game": "Five Nights at Freddy's",
+    "answers": [
+      "fnaf",
+      "five nights at"
+    ]
+  },
+    {
+    "order": 65,
+    "id": "payday2",
+    "game": "PAYDAY 2",
+    "answers": [
+      "payday"
+    ]
+  },
+    {
+    "order": 66,
+    "id": "assassin4",
+    "game": "Assassin's Creed: Black Flag",
+    "answers": [
+      "black flag",
+      "assassin",
+      "ac"
+    ]
+  },
+    {
+    "order": 67,
+    "id": "detroit",
+    "game": "Detroit: Become Human",
+    "answers": [
+      "detroit"
+    ]
+  },
+    {
+    "order": 68,
+    "id": "mortal_kombat",
+    "game": "Mortal Kombat",
+    "answers": [
+      "mortal kombat",
+      "mortal combat"
+    ]
+  },
+    {
+    "order": 69,
+    "id": "amogus",
+    "game": "Among Us",
+    "answers": [
+      "sus",
+      "amogus",
+      "among us"
+    ]
+  },
+    {
+    "order": 70,
+    "id": "undertale",
+    "game": "Undertale",
+    "answers": [
+      "undertale"
+    ]
+  },
+    {
+    "order": 71,
+    "id": "animal_crossing",
+    "game": "Animal Crossing",
+    "answers": [
+      "animal crossing"
+    ]
+  },
+    {
+    "order": 72,
+    "id": "rust",
+    "game": "Rust",
+    "answers": [
+      "rust"
+    ]
+  },
+    {
+    "order": 73,
+    "id": "escape_from_tarkov",
+    "game": "Escape from Tarkov",
+    "answers": [
+      "tarkov",
+      "escape from tarkov"
+    ]
+  },
+    {
+    "order": 74,
+    "id": "dayz",
+    "game": "DayZ",
+    "answers": [
+      "dayz"
+    ]
+  },
+    {
+    "order": 75,
+    "id": "just_cause2",
+    "game": "Just Cause 2",
+    "answers": [
+      "just cause"
+    ]
+  },
+    {
+    "order": 76,
+    "id": "pubg",
+    "game": "Playerunknown's Battlegrounds",
+    "answers": [
+      "pubg",
+      "playerunknowns battlegrounds"
+    ]
+  },
+    {
+    "order": 77,
+    "id": "stardewvalley",
+    "game": "Stardew Valley",
+    "answers": [
+      "stardew valley",
+      "stardewvalley"
+    ]
+  },
+    {
+    "order": 78,
+    "id": "kcd",
+    "game": "Kingdom Come: Deliverence",
+    "answers": [
+      "kcd",
+      "kingdom come"
+    ]
+  },
+    {
+    "order": 79,
+    "id": "the_crew",
+    "game": "The Crew",
+    "answers": [
+      "the crew"
+    ]
   }
 ]
